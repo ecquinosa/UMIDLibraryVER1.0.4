@@ -1,0 +1,47 @@
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary_v.1.0.0.vbprojResolveAssemblyReference.cache
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary.Resources.resources
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary_v.1.0.0.vbproj.GenerateResource.Cache
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\bin\Debug\UMIDLibrary_v.1.0.0.dll
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\bin\Debug\UMIDLibrary_v.1.0.0.pdb
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\bin\Debug\UMIDLibrary_v.1.0.0.xml
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary_v.1.0.0.dll
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary_v.1.0.0.xml
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary_v.1.0.0.pdb
+E:\Visual Studio Workspace\UMIDLibrary201401\UMIDLibrary201401\bin\Debug\UMIDLibrary_v.1.0.0.dll
+E:\Visual Studio Workspace\UMIDLibrary201401\UMIDLibrary201401\bin\Debug\UMIDLibrary_v.1.0.0.pdb
+E:\Visual Studio Workspace\UMIDLibrary201401\UMIDLibrary201401\bin\Debug\UMIDLibrary_v.1.0.0.xml
+E:\Visual Studio Workspace\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio Workspace\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary.Resources.resources
+E:\Visual Studio Workspace\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\GenerateResource.read.1.tlog
+E:\Visual Studio Workspace\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\GenerateResource.write.1.tlog
+E:\Visual Studio Workspace\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary_v.1.0.0.dll
+E:\Visual Studio Workspace\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary_v.1.0.0.xml
+E:\Visual Studio Workspace\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary_v.1.0.0.pdb
+D:\PROJECTS\2015\SSS\vs2010\UMIDLibrary20160317\UMIDLibrary201601\bin\Debug\ClassWinsCard.dll
+D:\PROJECTS\2015\SSS\vs2010\UMIDLibrary20160317\UMIDLibrary201601\obj\Debug\UMIDLibrary_v.1.0.0.vbproj.GenerateResource.Cache
+D:\Projects\2015\SSS\vs2010\UMIDLibrary20160317\UMIDLibrary201601\bin\Debug\UMIDLibrary.dll
+D:\Projects\2015\SSS\vs2010\UMIDLibrary20160317\UMIDLibrary201601\bin\Debug\UMIDLibrary.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibrary20160317\UMIDLibrary201601\bin\Debug\UMIDLibrary.xml
+D:\Projects\2015\SSS\vs2010\UMIDLibrary20160317\UMIDLibrary201601\obj\Debug\UMIDLibrary.dll
+D:\Projects\2015\SSS\vs2010\UMIDLibrary20160317\UMIDLibrary201601\obj\Debug\UMIDLibrary.xml
+D:\Projects\2015\SSS\vs2010\UMIDLibrary20160317\UMIDLibrary201601\obj\Debug\UMIDLibrary.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibrary20160317\UMIDLibrary201601\obj\Debug\UMIDLibrary.Resources.resources
+D:\Projects\2015\SSS\vs2010\UMIDLibrary20160317\UMIDLibrary201601\obj\Debug\UMIDLibrary_v.1.0.0.vbprojResolveAssemblyReference.cache
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\UMIDLibrary201601\bin\Debug\UMIDLibrary.dll
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\UMIDLibrary201601\bin\Debug\UMIDLibrary.pdb
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\UMIDLibrary201601\bin\Debug\UMIDLibrary.xml
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\UMIDLibrary201601\obj\Debug\UMIDLibrary_v.1.0.0.vbprojResolveAssemblyReference.cache
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\UMIDLibrary201601\obj\Debug\UMIDLibrary.Resources.resources
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\UMIDLibrary201601\obj\Debug\UMIDLibrary_v.1.0.0.vbproj.GenerateResource.Cache
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\UMIDLibrary201601\obj\Debug\UMIDLibrary.dll
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\UMIDLibrary201601\obj\Debug\UMIDLibrary.xml
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\UMIDLibrary201601\obj\Debug\UMIDLibrary.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\UMIDLibrary\bin\Debug\UMIDLibrary.dll
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\UMIDLibrary\bin\Debug\UMIDLibrary.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\UMIDLibrary\bin\Debug\UMIDLibrary.xml
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\UMIDLibrary\obj\Debug\UMIDLibrary_v.1.0.0.vbprojResolveAssemblyReference.cache
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\UMIDLibrary\obj\Debug\UMIDLibrary.Resources.resources
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\UMIDLibrary\obj\Debug\UMIDLibrary_v.1.0.0.vbproj.GenerateResource.Cache
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\UMIDLibrary\obj\Debug\UMIDLibrary.dll
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\UMIDLibrary\obj\Debug\UMIDLibrary.xml
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\UMIDLibrary\obj\Debug\UMIDLibrary.pdb

@@ -1,0 +1,8 @@
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary201401.vbproj.GenerateResource.Cache
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary.Resources.resources
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\bin\Debug\UMIDLibrary.pdb
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\bin\Debug\UMIDLibrary.xml
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary.dll
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary.xml
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary.pdb
+D:\_Shiela's Files\_PROJECT_2014\UMIDLibrary201401\UMIDLibrary201401\obj\Debug\UMIDLibrary201401.vbprojResolveAssemblyReference.cache

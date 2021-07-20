@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UMIDLibrary", "UMIDLibrary\UMIDLibrary.vbproj", "{1ADB36B6-7993-49D0-9E16-D7F74BAA87FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUMIDSAM", "TestUMIDSAM\TestUMIDSAM.csproj", "{AA1C5B06-5562-4374-8A32-C31AB4870E6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADB36B6-7993-49D0-9E16-D7F74BAA87FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADB36B6-7993-49D0-9E16-D7F74BAA87FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADB36B6-7993-49D0-9E16-D7F74BAA87FB}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1ADB36B6-7993-49D0-9E16-D7F74BAA87FB}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1ADB36B6-7993-49D0-9E16-D7F74BAA87FB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1ADB36B6-7993-49D0-9E16-D7F74BAA87FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADB36B6-7993-49D0-9E16-D7F74BAA87FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADB36B6-7993-49D0-9E16-D7F74BAA87FB}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1ADB36B6-7993-49D0-9E16-D7F74BAA87FB}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1ADB36B6-7993-49D0-9E16-D7F74BAA87FB}.Release|x86.ActiveCfg = Release|Any CPU
+		{AA1C5B06-5562-4374-8A32-C31AB4870E6C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AA1C5B06-5562-4374-8A32-C31AB4870E6C}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{AA1C5B06-5562-4374-8A32-C31AB4870E6C}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{AA1C5B06-5562-4374-8A32-C31AB4870E6C}.Debug|x86.ActiveCfg = Debug|x86
+		{AA1C5B06-5562-4374-8A32-C31AB4870E6C}.Debug|x86.Build.0 = Debug|x86
+		{AA1C5B06-5562-4374-8A32-C31AB4870E6C}.Release|Any CPU.ActiveCfg = Release|x86
+		{AA1C5B06-5562-4374-8A32-C31AB4870E6C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{AA1C5B06-5562-4374-8A32-C31AB4870E6C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{AA1C5B06-5562-4374-8A32-C31AB4870E6C}.Release|x86.ActiveCfg = Release|x86
+		{AA1C5B06-5562-4374-8A32-C31AB4870E6C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

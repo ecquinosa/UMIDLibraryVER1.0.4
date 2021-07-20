@@ -1,0 +1,141 @@
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\bin\Debug\TestUMIDSAM.exe
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\bin\Debug\TestUMIDSAM.pdb
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\bin\Debug\AllCardTech_UMID.dll
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\bin\Debug\ClassWinsCard.dll
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\bin\Debug\dotNetUMIDSAM.dll
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\bin\Debug\AllCardTech_UMID.pdb
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\bin\Debug\AllCardTech_UMID.xml
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csprojResolveAssemblyReference.cache
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Form1.resources
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Properties.Resources.resources
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.GenerateResource.Cache
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+D:\PROJECTS\2015\SSS\vs2010\AllCardTech_UMID - SSS Modified Jan 19_v2 Modification_JUL813\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
+D:\PROJECTS\2015\SSS\vs2010\UMIDLibrary20160317\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csprojResolveAssemblyReference.cache
+D:\PROJECTS\2015\SSS\vs2010\UMIDLibrary20160317\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Form1.resources
+D:\PROJECTS\2015\SSS\vs2010\UMIDLibrary20160317\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Properties.Resources.resources
+D:\PROJECTS\2015\SSS\vs2010\UMIDLibrary20160317\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.GenerateResource.Cache
+D:\PROJECTS\2015\SSS\vs2010\UMIDLibrary20160317\TestUMIDSAM\bin\Debug\TestUMIDSAM.exe
+D:\PROJECTS\2015\SSS\vs2010\UMIDLibrary20160317\TestUMIDSAM\bin\Debug\TestUMIDSAM.pdb
+D:\PROJECTS\2015\SSS\vs2010\UMIDLibrary20160317\TestUMIDSAM\bin\Debug\ClassWinsCard.dll
+D:\PROJECTS\2015\SSS\vs2010\UMIDLibrary20160317\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+D:\PROJECTS\2015\SSS\vs2010\UMIDLibrary20160317\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibrary20160317\TestUMIDSAM\bin\Debug\UMIDLibrary.dll
+D:\Projects\2015\SSS\vs2010\UMIDLibrary20160317\TestUMIDSAM\bin\Debug\UMIDLibrary.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibrary20160317\TestUMIDSAM\bin\Debug\UMIDLibrary.xml
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\TestUMIDSAM\bin\Debug\TestUMIDSAM.exe
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\TestUMIDSAM\bin\Debug\TestUMIDSAM.pdb
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\TestUMIDSAM\bin\Debug\UMIDLibrary.dll
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\TestUMIDSAM\bin\Debug\UMIDLibrary.pdb
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\TestUMIDSAM\bin\Debug\UMIDLibrary.xml
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csprojResolveAssemblyReference.cache
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Form1.resources
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Properties.Resources.resources
+D:\Projects\2015\SSS\vs2010\Backup\UMIDLibrary20160317\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.GenerateResource.Cache
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\TestUMIDSAM\bin\Debug\TestUMIDSAM.exe
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\TestUMIDSAM\bin\Debug\TestUMIDSAM.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\TestUMIDSAM\bin\Debug\UMIDLibrary.dll
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\TestUMIDSAM\bin\Debug\UMIDLibrary.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\TestUMIDSAM\bin\Debug\UMIDLibrary.xml
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csprojResolveAssemblyReference.cache
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Form1.resources
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Properties.Resources.resources
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.1\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.GenerateResource.Cache
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.2\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.2\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.2\TestUMIDSAM\bin\Debug\TestUMIDSAM.exe
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.2\TestUMIDSAM\bin\Debug\TestUMIDSAM.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.2\TestUMIDSAM\bin\Debug\UMIDLibrary.dll
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.2\TestUMIDSAM\bin\Debug\UMIDLibrary.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.2\TestUMIDSAM\bin\Debug\UMIDLibrary.xml
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.2\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csprojResolveAssemblyReference.cache
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.2\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Form1.resources
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.2\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Properties.Resources.resources
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.2\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.GenerateResource.Cache
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.3\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.3\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.3\TestUMIDSAM\bin\Debug\TestUMIDSAM.exe
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.3\TestUMIDSAM\bin\Debug\TestUMIDSAM.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.3\TestUMIDSAM\bin\Debug\UMIDLibrary.dll
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.3\TestUMIDSAM\bin\Debug\UMIDLibrary.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.3\TestUMIDSAM\bin\Debug\UMIDLibrary.xml
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.3\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csprojResolveAssemblyReference.cache
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.3\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Form1.resources
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.3\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Properties.Resources.resources
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.3\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.GenerateResource.Cache
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\TestUMIDSAM.exe
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\TestUMIDSAM.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.dll
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.pdb
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.xml
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csprojResolveAssemblyReference.cache
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Form1.resources
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Properties.Resources.resources
+D:\Projects\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.GenerateResource.Cache
+D:\Projects\Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+D:\Projects\Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
+D:\Projects\BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+D:\Projects\BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
+D:\Projects\BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\TestUMIDSAM.exe
+D:\Projects\BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\TestUMIDSAM.pdb
+D:\Projects\BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.dll
+D:\Projects\BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.pdb
+D:\Projects\BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.xml
+D:\Projects\BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csprojResolveAssemblyReference.cache
+D:\Projects\BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Form1.resources
+D:\Projects\BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Properties.Resources.resources
+D:\Projects\BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.GenerateResource.Cache
+D:\Projects\1_BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+D:\Projects\1_BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
+D:\Projects\1_BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\TestUMIDSAM.exe
+D:\Projects\1_BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\TestUMIDSAM.pdb
+D:\Projects\1_BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.dll
+D:\Projects\1_BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.pdb
+D:\Projects\1_BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.xml
+D:\Projects\1_BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csprojResolveAssemblyReference.cache
+D:\Projects\1_BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Form1.resources
+D:\Projects\1_BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Properties.Resources.resources
+D:\Projects\1_BACKUP_Yearly\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.GenerateResource.Cache
+D:\Projects\0_Backup\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+D:\Projects\0_Backup\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
+D:\Projects\0_Backup\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\TestUMIDSAM.exe
+D:\Projects\0_Backup\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\TestUMIDSAM.pdb
+D:\Projects\0_Backup\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.dll
+D:\Projects\0_Backup\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.pdb
+D:\Projects\0_Backup\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.xml
+D:\Projects\0_Backup\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csprojResolveAssemblyReference.cache
+D:\Projects\0_Backup\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Form1.resources
+D:\Projects\0_Backup\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Properties.Resources.resources
+D:\Projects\0_Backup\2015\SSS\vs2010\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.GenerateResource.Cache
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\TestUMIDSAM.exe
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\TestUMIDSAM.pdb
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.dll
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.pdb
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.xml
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Form1.resources
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Properties.Resources.resources
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.GenerateResource.Cache
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csprojAssemblyReference.cache
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.CoreCompileInputs.cache
+F:\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.CopyComplete
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\TestUMIDSAM.exe
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\TestUMIDSAM.pdb
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.dll
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.pdb
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\bin\Debug\UMIDLibrary.xml
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csprojAssemblyReference.cache
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Form1.resources
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.Properties.Resources.resources
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.GenerateResource.cache
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.CoreCompileInputs.cache
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.csproj.CopyComplete
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.exe
+D:\WORK\Projects\UMIDLibraryVER1.0.4\TestUMIDSAM\obj\x86\Debug\TestUMIDSAM.pdb
